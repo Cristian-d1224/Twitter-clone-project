@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    background-color: #4D77FF;
+    width: auto;
+    border-radius: 5%;
+}

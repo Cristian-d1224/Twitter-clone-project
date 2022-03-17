@@ -1,0 +1,14 @@
+
+
+.links a {
+    font-size: 2rem;
+    background-color: darkcyan;
+    color: white;
+    text-decoration: none;
+    margin-right: 0.75rem;
+    border-radius: 7%;
+}
+
+.links a :hover{
+    cursor: pointer;
+}
